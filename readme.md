@@ -19,8 +19,8 @@ Data provided in the example files has been generated from a DIA-NN report pg ma
   - see R_requirements.R for packages. i.e. Rscript R_requirements.R
 
 ### Outputs:
-Fully processed data.tsv
+1. Fully processed data.tsv
 - This file contains filtered, median normalized and QRILC-imputated data
-Produced comparisons.tsv
+2. Produced comparisons.tsv
 - This file contains fold changes and significance values for the comparisons performed according to the comparisons file
-Volcano plots of each comparison.
+3. Volcano plots of each comparison.
